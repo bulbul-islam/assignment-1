@@ -1,0 +1,25 @@
+.logo{
+    width: 70px;
+    border-radius: 50%;
+    padding: 5px 5px;
+}
+
+.input-style{
+    margin-top: 100px;
+    margin-bottom: 200px;
+}
+
+.form-label{
+    font-size: 60px !important;
+}
+
+.card-style{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    width: 1000px;
+    height: 300px;
+    font-size: 36px !important;
+}
+
